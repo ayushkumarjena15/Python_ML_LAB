@@ -20,7 +20,8 @@ The core lab work is organized within the `24cseaiml060` directory, which mainta
 
 - **📋 Experiments (1–12)**: Detailed implementations of various machine learning algorithms and Python paradigms.
 - **📄 Assignment Folder**: Contains advanced problem sets and curriculum-based tasks.
-- **🛠️ Practice Folders**: Two dedicated spaces for supplementary coding challenges and self-study.
+- **🛠️ Practice Folders**: Dedicated spaces for general Python practice and advanced supplementary tasks.
+- **🐼 Pandas Practice**: A curated set of 12 exercises focused on data manipulation and analysis using the Pandas library.
 
 ---
 
